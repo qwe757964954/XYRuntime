@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:XYRuntime.xcodeproj">
+      location = "self:LeKaKa.xcodeproj">
    </FileRef>
 </Workspace>

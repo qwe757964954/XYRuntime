@@ -1,18 +1,18 @@
 //
-//  XYRuntimeUITests.m
-//  XYRuntimeUITests
+//  LeKaKaUITests.m
+//  LeKaKaUITests
 //
-//  Created by 建星 on 16/6/24.
-//  Copyright © 2016年 建星. All rights reserved.
+//  Created by 谢龙 on 2018/1/23.
+//  Copyright © 2018年 谢龙. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface XYRuntimeUITests : XCTestCase
+@interface LeKaKaUITests : XCTestCase
 
 @end
 
-@implementation XYRuntimeUITests
+@implementation LeKaKaUITests
 
 - (void)setUp {
     [super setUp];
